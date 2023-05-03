@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills 
 - 🌱 I’m currently a beginner 
 - 💞️ I’m a fast learner and redy to learn
-- 📫 How to reach me on my insta
+- 📫 reach me on my insta
 
 <!---
 arv07-flex/arv07-flex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
